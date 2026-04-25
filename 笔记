@@ -1,0 +1,9 @@
+1.List<列表里含着的元素> = new List<里面含着的元素>();
+2.new string(输出的内容，count)
+3.列表.RemoveAt(要删除元素的下标)
+4.生成随机数
+Random 名字 = new Random()
+a = 名字.Next(范围)
+5.如何获取键盘上的信息
+ConsoleKeyInfo 名字= ReadKey(true) //true表示不显示，即按下的键不会显示在控制台窗口，false表示会显示在控制台窗口。
+
